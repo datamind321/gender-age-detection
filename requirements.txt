@@ -2,5 +2,4 @@ opencv-python-headless
 pillow
 streamlit
 streamlit-webrtc
-numpy
 tempfile
